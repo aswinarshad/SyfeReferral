@@ -11,6 +11,7 @@ Dont get fooled. There is no concept such as 'free money' exists. We are 'sort o
 Download link
 --------------------
 For Android, download the app from here - https://play.google.com/store/apps/details?id=com.syfe&hl=en_SG&gl=US
+
 For iOS, download the app from here - https://apps.apple.com/sg/app/syfe-invest-better/id1497156434
 
 How the process will be : - 
